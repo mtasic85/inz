@@ -1,0 +1,2 @@
+# inz
+intelligence equals compression
